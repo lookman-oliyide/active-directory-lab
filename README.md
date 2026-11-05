@@ -18,7 +18,7 @@ management and Group Policy enforcement.
 - 
 
 ## Evidence
-See [BUILD.md](BUILD.md) for the full walkthrough with screenshots.
+See [BUILD.md](./BUILD.md) for the full walkthrough with screenshots.
 See [scripts/](scripts/) for automation.
 
 ## Lessons Learned
