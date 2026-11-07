@@ -33,7 +33,7 @@ I did not capture screenshots during steps 1 and 2, so the evidence below shows 
 |-------|---------------|------------|
 | Server Manager dashboard | AD DS and DNS roles installed | ![Roles](../screenshots/02-server-manager-dashboard-showing-installed-roles.png) |
 | Active Directory Users and Computers | `dojocorp.lab` domain with default containers | ![ADUC](../screenshots/02-aduc-default.png) |
-| System properties | Full computer name `DC01.dojocorp.lab` | ![Computer name](../02-system-properties.png) |
+| System properties | Full computer name `DC01.dojocorp.lab` | ![Computer name](../Screenshots/02-system-properties.png) |
 | `Get-ADDomain` | Domain name and NetBIOS name | ![Get-ADDomain](../screenshots/02-get-ad-domain.png) |
 | `Get-ADForest` | Forest root domain | ![Get-ADForest](../screenshots/02-get-ad-forest.png) |
 | `dcdiag` | Domain controller health tests | ![dcdiag](../screenshots/02-dc-diagnosis.png) |
