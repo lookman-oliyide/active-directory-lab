@@ -22,3 +22,6 @@
 
 ## Why an internal network
 The lab is isolated from my home network so test accounts and policies cannot affect real devices.
+
+## Next
+Install Active Directory Domain Services (AD DS) on DC01 and promote it to the first domain controller of a new forest, `dojocorp.lab` : [02-domain-setup.md](02-domain-setup.md).
